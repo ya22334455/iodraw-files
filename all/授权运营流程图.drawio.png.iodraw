@@ -222,8 +222,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680.0588235294117" y="2320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="960" />
-              <mxPoint x="680" y="960" />
+              <mxPoint x="680" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-5" value="合伙人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-10" width="250" height="40" as="geometry" />
+          <mxGeometry x="720" y="-10" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-4" value="征求意见、确定授权公共数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="440" width="220" height="60" as="geometry" />
