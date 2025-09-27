@@ -207,7 +207,7 @@
           <mxGeometry x="337" y="1832" width="116" height="76" as="geometry" />
         </mxCell>
         <mxCell id="-UX2bu87RYqII7Xq_I4t-1" value="授权流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="30" width="20" height="630" as="geometry" />
+          <mxGeometry x="-20" y="30" width="20" height="490" as="geometry" />
         </mxCell>
         <mxCell id="-UX2bu87RYqII7Xq_I4t-2" value="评估流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="1670" width="20" height="640" as="geometry" />
@@ -242,7 +242,7 @@
             <mxPoint x="489.47058823529414" y="2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IUYCZ-jD9xEYsTWpNEuB-4">
+        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IUYCZ-jD9xEYsTWpNEuB-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680.0588235294117" y="2320" as="targetPoint" />
           </mxGeometry>
