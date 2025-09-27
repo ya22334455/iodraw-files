@@ -190,8 +190,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="519.7058823529414" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="600" />
-              <mxPoint x="930" y="600" />
+              <mxPoint y="620" />
+              <mxPoint x="930" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -244,6 +244,9 @@
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-4" value="征求意见、确定授权公共数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="440" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PRN6AHpx8f19dLQhScIb-20" target="PRN6AHpx8f19dLQhScIb-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-20" value="推荐有行业经验的合伙人、联合发布招募公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="660" width="220" height="60" as="geometry" />
