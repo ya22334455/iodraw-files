@@ -218,11 +218,12 @@
             <mxPoint x="489.47058823529414" y="2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IUYCZ-jD9xEYsTWpNEuB-4">
+        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680.0588235294117" y="2320" as="targetPoint" />
+            <mxPoint x="719.9988235294118" y="2320" as="targetPoint" />
+            <mxPoint x="759.94" y="30" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="680" y="30" />
+              <mxPoint x="719.94" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -262,13 +263,13 @@
           <mxGeometry x="600" y="1540" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-10" value="继续运营" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-9" value="运营到期" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1932" width="120" height="70" as="geometry" />
+          <mxGeometry x="660" y="1932" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-8" value="履行退出程序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="2032" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="2032" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
