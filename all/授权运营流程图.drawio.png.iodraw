@@ -133,9 +133,6 @@
         <mxCell id="PRN6AHpx8f19dLQhScIb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-20" target="PRN6AHpx8f19dLQhScIb-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRN6AHpx8f19dLQhScIb-20" value="推荐有行业经验的合伙人、联合发布招募公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="570" width="220" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-21" target="PRN6AHpx8f19dLQhScIb-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -229,7 +226,7 @@
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IUYCZ-jD9xEYsTWpNEuB-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="840" as="targetPoint" />
+            <mxPoint x="160" y="2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-2" value="行业主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -246,6 +243,9 @@
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-4" value="征求意见、确定授权公共数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="440" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRN6AHpx8f19dLQhScIb-20" value="推荐有行业经验的合伙人、联合发布招募公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="570" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
