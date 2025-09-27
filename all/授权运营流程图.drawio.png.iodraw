@@ -98,9 +98,6 @@
         <mxCell id="PRN6AHpx8f19dLQhScIb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PRN6AHpx8f19dLQhScIb-15" target="PRN6AHpx8f19dLQhScIb-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRN6AHpx8f19dLQhScIb-15" value="产品开发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1340" width="240" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-16" target="PRN6AHpx8f19dLQhScIb-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -111,9 +108,6 @@
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-17" target="PRN6AHpx8f19dLQhScIb-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PRN6AHpx8f19dLQhScIb-17" value="场景建设方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1100" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-18" target="PRN6AHpx8f19dLQhScIb-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -261,6 +255,12 @@
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-22" value="签订合作协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="840" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRN6AHpx8f19dLQhScIb-17" value="场景建设方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRN6AHpx8f19dLQhScIb-15" value="产品开发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1340" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
