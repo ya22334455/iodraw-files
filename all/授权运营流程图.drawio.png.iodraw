@@ -255,6 +255,14 @@
         <mxCell id="PRN6AHpx8f19dLQhScIb-16" value="组成专家委员会对场景方案进行审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="1210" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PRN6AHpx8f19dLQhScIb-22" target="PRN6AHpx8f19dLQhScIb-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="945" />
+              <mxPoint x="600" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-22" value="签订合作协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="840" width="350" height="60" as="geometry" />
         </mxCell>
