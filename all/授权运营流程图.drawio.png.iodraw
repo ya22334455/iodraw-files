@@ -123,7 +123,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-24" value="签订授权运营协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-25" target="PRN6AHpx8f19dLQhScIb-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -190,8 +190,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="519.7058823529414" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="550" />
-              <mxPoint x="930" y="550" />
+              <mxPoint y="600" />
+              <mxPoint x="930" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
