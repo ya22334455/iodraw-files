@@ -186,6 +186,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-UX2bu87RYqII7Xq_I4t-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="2330.2941176470586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-UX2bu87RYqII7Xq_I4t-2" value="评估流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="1640" width="20" height="690" as="geometry" />
         </mxCell>
