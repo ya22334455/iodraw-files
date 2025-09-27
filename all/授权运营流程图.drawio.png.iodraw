@@ -237,7 +237,7 @@
           <mxGeometry x="300" y="-10" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-4" value="运营机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-100" width="140" height="40" as="geometry" />
+          <mxGeometry x="490" y="-10" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-5" value="合伙人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-90" width="140" height="40" as="geometry" />
