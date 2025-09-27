@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="338" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-2" target="PRN6AHpx8f19dLQhScIb-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -234,7 +234,7 @@
           <mxGeometry x="160" y="-10" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-3" value="市数据资源管理局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-10" width="140" height="40" as="geometry" />
+          <mxGeometry x="300" y="-10" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-4" value="运营机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-100" width="140" height="40" as="geometry" />
