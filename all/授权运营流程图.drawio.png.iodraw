@@ -192,6 +192,10 @@
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-UX2bu87RYqII7Xq_I4t-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="519.7058823529414" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="550" />
+              <mxPoint x="930" y="550" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-UX2bu87RYqII7Xq_I4t-4" value="运营流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
