@@ -25,14 +25,6 @@
         <mxCell id="PRN6AHpx8f19dLQhScIb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-4" target="PRN6AHpx8f19dLQhScIb-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PRN6AHpx8f19dLQhScIb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PRN6AHpx8f19dLQhScIb-5" target="PRN6AHpx8f19dLQhScIb-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="520" />
-              <mxPoint x="590" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PRN6AHpx8f19dLQhScIb-5" value="拟定授权运行协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="440" width="120" height="60" as="geometry" />
         </mxCell>
