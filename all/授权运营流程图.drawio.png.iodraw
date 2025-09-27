@@ -243,12 +243,12 @@
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IUYCZ-jD9xEYsTWpNEuB-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489.47058823529414" y="2310" as="targetPoint" />
+            <mxPoint x="489" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719.9988235294118" y="2320" as="targetPoint" />
+            <mxPoint x="720" y="2330" as="targetPoint" />
             <mxPoint x="759.94" y="30" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="719.94" y="30" />
@@ -260,7 +260,7 @@
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IUYCZ-jD9xEYsTWpNEuB-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="929.4705882352946" y="2311.176470588235" as="targetPoint" />
+            <mxPoint x="929" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IUYCZ-jD9xEYsTWpNEuB-5" value="合伙人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
