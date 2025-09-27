@@ -201,7 +201,7 @@
         <mxCell id="-UX2bu87RYqII7Xq_I4t-3" value="开发流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="970" width="20" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="-UX2bu87RYqII7Xq_I4t-4" edge="1">
+        <mxCell id="IUYCZ-jD9xEYsTWpNEuB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="-UX2bu87RYqII7Xq_I4t-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="519.7058823529414" as="targetPoint" />
             <Array as="points">
