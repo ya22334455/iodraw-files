@@ -23,7 +23,10 @@
           <mxGeometry x="760" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-6" value="更新共享记录状态为【已拒绝】&lt;span style=&quot;background-color: initial;&quot;&gt;流程终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDG0jRu9ojCLncE-__Qj-7" target="UDG0jRu9ojCLncE-__Qj-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-7" value="生成共享申请记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
@@ -41,7 +44,7 @@
           <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-10" value="审核人员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="590" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-11" value="数据交换结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="980" width="80" height="80" as="geometry" />
