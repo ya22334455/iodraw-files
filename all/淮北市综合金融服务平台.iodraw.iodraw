@@ -35,7 +35,7 @@
           <mxGeometry x="500" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-7" value="贷款结清" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-8" value="返回拒绝原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="780" width="120" height="60" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-9" value="补充材料重新提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUCREgde4qGsmXs2NFHK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-10" target="iUCREgde4qGsmXs2NFHK-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-10" value="金融机构放款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="850" width="120" height="60" as="geometry" />
