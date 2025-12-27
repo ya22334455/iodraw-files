@@ -31,11 +31,14 @@
         <mxCell id="iUCREgde4qGsmXs2NFHK-5" value="查询并选择金融产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iUCREgde4qGsmXs2NFHK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-6" target="iUCREgde4qGsmXs2NFHK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-6" value="企业履约还款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-7" value="贷款结清" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-8" value="返回拒绝原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="780" width="120" height="60" as="geometry" />
