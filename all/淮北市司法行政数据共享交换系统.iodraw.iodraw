@@ -68,6 +68,9 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-10" value="审核人员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="530" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDG0jRu9ojCLncE-__Qj-11" target="UDG0jRu9ojCLncE-__Qj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-11" value="数据交换结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="870" width="80" height="80" as="geometry" />
         </mxCell>
