@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDG0jRu9ojCLncE-__Qj-1" target="UDG0jRu9ojCLncE-__Qj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -23,10 +26,16 @@
           <mxGeometry x="360" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-7" value="生成共享申请记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDG0jRu9ojCLncE-__Qj-8" target="UDG0jRu9ojCLncE-__Qj-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-8" value="填报数据共享申请&lt;div&gt;选择共享数据资源+供需部门&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDG0jRu9ojCLncE-__Qj-9" target="UDG0jRu9ojCLncE-__Qj-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-9" value="平台用户登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
