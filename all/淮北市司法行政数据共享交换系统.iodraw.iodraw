@@ -19,7 +19,7 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDG0jRu9ojCLncE-__Qj-6" value="更新共享记录状态为【已拒绝】&lt;div&gt;流程终止&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-6" value="更新共享记录状态为【已拒绝】&lt;span style=&quot;background-color: initial;&quot;&gt;流程终止&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-7" value="生成共享申请记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
