@@ -22,6 +22,9 @@
         <mxCell id="iUCREgde4qGsmXs2NFHK-3" value="完善企业基础信息" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iUCREgde4qGsmXs2NFHK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-4" target="iUCREgde4qGsmXs2NFHK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-4" value="平台审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,7 +47,7 @@
           <mxGeometry x="860" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-10" value="金融机构放款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-11" target="iUCREgde4qGsmXs2NFHK-4">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +59,7 @@
           <mxGeometry x="1460" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-13" value="审核结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="680" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
