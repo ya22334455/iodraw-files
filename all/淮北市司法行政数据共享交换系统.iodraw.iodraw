@@ -13,7 +13,7 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDG0jRu9ojCLncE-__Qj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-4" value="发起跨部门数据交换同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-5" value="更新共享记录状态为【已通过】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
