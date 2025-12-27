@@ -40,6 +40,9 @@
         <mxCell id="iUCREgde4qGsmXs2NFHK-7" value="贷款结清" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PwljwKf2djEwDMOS2I_i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-8" target="iUCREgde4qGsmXs2NFHK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-8" value="返回拒绝原因" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -102,8 +105,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PwljwKf2djEwDMOS2I_i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PwljwKf2djEwDMOS2I_i-1" target="iUCREgde4qGsmXs2NFHK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PwljwKf2djEwDMOS2I_i-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
