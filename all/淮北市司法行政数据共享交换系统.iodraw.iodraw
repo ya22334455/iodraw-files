@@ -11,7 +11,7 @@
           <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-4" value="发起跨部门数据交换同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="870" width="120" height="60" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-10" value="审核人员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UDG0jRu9ojCLncE-__Qj-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-11" value="数据交换结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="980" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
