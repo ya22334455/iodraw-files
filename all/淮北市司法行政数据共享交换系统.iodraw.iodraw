@@ -22,7 +22,7 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDG0jRu9ojCLncE-__Qj-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-7" value="生成共享申请记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-8" value="填报数据共享申请&lt;div&gt;选择共享数据资源+供需部门&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
