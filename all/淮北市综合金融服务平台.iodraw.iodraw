@@ -22,10 +22,10 @@
         <mxCell id="iUCREgde4qGsmXs2NFHK-6" value="企业履约还款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iUCREgde4qGsmXs2NFHK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUCREgde4qGsmXs2NFHK-7" value="贷款结清" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iUCREgde4qGsmXs2NFHK-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUCREgde4qGsmXs2NFHK-8" value="返回拒绝原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-9" value="补充材料重新提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
