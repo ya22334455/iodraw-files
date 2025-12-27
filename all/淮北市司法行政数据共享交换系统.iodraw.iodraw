@@ -8,7 +8,7 @@
           <mxGeometry x="780" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-3" value="记录失败日志+错误信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1140" width="120" height="60" as="geometry" />
@@ -37,11 +37,11 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-11" value="数据交换结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="980" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UDG0jRu9ojCLncE-__Qj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-12" value="记录成功日志+交换数据量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="1440" width="120" height="60" as="geometry" />
