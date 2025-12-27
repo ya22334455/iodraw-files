@@ -11,7 +11,10 @@
           <mxGeometry x="610" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-2" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDG0jRu9ojCLncE-__Qj-3" target="UDG0jRu9ojCLncE-__Qj-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-3" value="记录失败日志+错误信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="980" width="120" height="60" as="geometry" />
