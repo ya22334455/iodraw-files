@@ -74,13 +74,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-13" target="iUCREgde4qGsmXs2NFHK-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="890" />
+              <mxPoint x="800" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUCREgde4qGsmXs2NFHK-29" value="拒绝" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUCREgde4qGsmXs2NFHK-28">
+          <mxGeometry x="-0.075" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-13" value="审核结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-13" target="iUCREgde4qGsmXs2NFHK-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUCREgde4qGsmXs2NFHK-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUCREgde4qGsmXs2NFHK-24">
+          <mxGeometry x="0.3396" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
