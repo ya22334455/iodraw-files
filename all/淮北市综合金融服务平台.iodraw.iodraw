@@ -32,7 +32,7 @@
           <mxGeometry x="1300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-6" value="企业履约还款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-7" value="贷款结清" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1010" width="120" height="60" as="geometry" />
@@ -61,13 +61,11 @@
         <mxCell id="iUCREgde4qGsmXs2NFHK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-13" target="iUCREgde4qGsmXs2NFHK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iUCREgde4qGsmXs2NFHK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iUCREgde4qGsmXs2NFHK-13" value="审核结果" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUCREgde4qGsmXs2NFHK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iUCREgde4qGsmXs2NFHK-13" target="iUCREgde4qGsmXs2NFHK-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
