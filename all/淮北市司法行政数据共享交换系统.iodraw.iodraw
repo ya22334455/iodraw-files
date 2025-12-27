@@ -31,6 +31,9 @@
         <mxCell id="UDG0jRu9ojCLncE-__Qj-9" value="平台用户登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UDG0jRu9ojCLncE-__Qj-10" value="审核人员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
