@@ -91,10 +91,10 @@
           <mxGeometry x="850" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-13" value="更新共享记录状态为【已完成】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDG0jRu9ojCLncE-__Qj-14" value="业务流程归档/监管留痕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
