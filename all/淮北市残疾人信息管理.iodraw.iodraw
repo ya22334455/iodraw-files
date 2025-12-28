@@ -7,11 +7,24 @@
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-1" value="走访慰问跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R4Wp3CcyuCjBTKVb1M36-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4Wp3CcyuCjBTKVb1M36-2" target="R4Wp3CcyuCjBTKVb1M36-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-2" value="就业帮扶对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R4Wp3CcyuCjBTKVb1M36-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4Wp3CcyuCjBTKVb1M36-3" target="R4Wp3CcyuCjBTKVb1M36-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-3" value="补贴发放管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R4Wp3CcyuCjBTKVb1M36-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4Wp3CcyuCjBTKVb1M36-4" target="R4Wp3CcyuCjBTKVb1M36-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-4" value="康复服务安排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="120" height="60" as="geometry" />
