@@ -23,10 +23,10 @@
           <mxGeometry x="780" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-7" value="残疾证办理/备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-8" value="残疾人信息建档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-9" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="120" width="120" height="60" as="geometry" />
