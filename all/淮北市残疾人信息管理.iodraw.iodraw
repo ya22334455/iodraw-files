@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-1" value="走访慰问跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-2" value="就业帮扶对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-3" value="补贴发放管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-4" value="康复服务安排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-5" value="系统用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-6" value="家庭信息登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-7" value="残疾证办理/备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-8" value="残疾人信息建档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="220" width="120" height="60" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="1100" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-12" value="反馈处理归档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-13" value="结束·" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
