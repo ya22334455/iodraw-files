@@ -8,7 +8,7 @@
           <mxGeometry x="930" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-2" value="就业帮扶对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-3" value="补贴发放管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="620" width="120" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="700" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-10" value="服务保障" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="500" width="80" height="80" as="geometry" />
+          <mxGeometry x="720" y="470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-12" value="反馈处理归档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="970" width="120" height="60" as="geometry" />
