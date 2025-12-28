@@ -13,8 +13,8 @@
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R4Wp3CcyuCjBTKVb1M36-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="R4Wp3CcyuCjBTKVb1M36-4" value="康复服务安排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-5" value="系统用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="790" width="120" height="60" as="geometry" />
