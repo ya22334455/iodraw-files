@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-1" value="走访慰问跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-2" value="就业帮扶对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="620" width="120" height="60" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry x="470" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-5" value="系统用户权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-6" value="家庭信息登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-7" value="残疾证办理/备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-8" value="残疾人信息建档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="220" width="120" height="60" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="720" y="470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-12" value="反馈处理归档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-13" value="结束·" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
