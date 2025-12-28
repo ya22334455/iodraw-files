@@ -22,6 +22,11 @@
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-6" value="家庭信息登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R4Wp3CcyuCjBTKVb1M36-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Wp3CcyuCjBTKVb1M36-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-7" value="残疾证办理/备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,6 +34,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4Wp3CcyuCjBTKVb1M36-8" target="R4Wp3CcyuCjBTKVb1M36-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4Wp3CcyuCjBTKVb1M36-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4Wp3CcyuCjBTKVb1M36-8" target="R4Wp3CcyuCjBTKVb1M36-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R4Wp3CcyuCjBTKVb1M36-8" value="残疾人信息建档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
